@@ -1,10 +1,10 @@
-# ac_ui
+# Ac_app UI
 
-A new Flutter project.
+A mini Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application.a front end project with a very attractive UI with statemanagement Riverpod.
 
 A few resources to get you started if this is your first Flutter project:
 
